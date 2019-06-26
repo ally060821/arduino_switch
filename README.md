@@ -30,3 +30,4 @@ void loop() {
 ```
 
 ![pig](https://github.com/ally060821/arduino_switch/blob/master/gggggggg.jpg)
+![dog](https://www.google.com/search?q=arduino+switch+parts+explain&source=lnms&tbm=isch&sa=X&ved=0ahUKEwibpKaXp4fjAhWvHqYKHUseDZ8Q_AUIECgB&cshid=1561557711826499&biw=1536&bih=754&dpr=1.25#imgdii=Db5giZgyKrTesM:&imgrc=82oPmcJOfGxD0M:)
